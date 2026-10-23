@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7c0d0"/><stop offset="1" stop-color="#fbe6ec"/></linearGradient>
+      <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fce7ee"/><stop offset="1" stop-color="#fff9fa"/></linearGradient>
+      <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#a85b7d" flood-opacity=".14"/></filter>
+      <pattern id="grain" width="38" height="38" patternUnits="userSpaceOnUse"><circle cx="7" cy="8" r="1" fill="#fff" opacity=".35"/><circle cx="29" cy="24" r="1" fill="#fff" opacity=".3"/></pattern>
+    </defs>
+    <rect width="1000" height="760" fill="url(#bg)"/>
+    <circle cx="120" cy="100" r="160" fill="#fff" opacity=".19"/><circle cx="930" cy="660" r="200" fill="#fff" opacity=".16"/>
+    <rect x="270" y="110" width="460" height="470" rx="34" fill="#fffafc" stroke="#ffffff" stroke-width="14" filter="url(#shadow)"/>
+        <rect x="310" y="150" width="380" height="50" rx="16" fill="#f7d5e0"/>
+        <circle cx="337" cy="175" r="11" fill="#e782a1"/><rect x="359" y="166" width="125" height="7" rx="3.5" fill="#ca8b9f"/><rect x="359" y="179" width="82" height="5" rx="2.5" fill="#e3b3c2"/>
+        <rect x="320" y="236" width="220" height="61" rx="18" fill="#fbe8ee"/><rect x="340" y="255" width="158" height="6" rx="3" fill="#c891a3"/><rect x="340" y="270" width="104" height="5" rx="2.5" fill="#dfb3c1"/>
+        <rect x="420" y="323" width="270" height="69" rx="18" fill="#e9a3b9"/><rect x="440" y="344" width="206" height="6" rx="3" fill="#fff7fa"/><rect x="440" y="360" width="151" height="5" rx="2.5" fill="#fff7fa" opacity=".78"/>
+        <rect x="320" y="417" width="238" height="57" rx="17" fill="#fbe8ee"/><rect x="340" y="437" width="161" height="6" rx="3" fill="#c891a3"/><rect x="340" y="451" width="111" height="5" rx="2.5" fill="#dfb3c1"/>
+        <path d="M636 493 C623 480 601 464 601 450 C601 438 619 431 630 449 C641 431 659 438 659 450 C659 464 644 483 636 493Z" fill="#ef7fa2"/>
+    <rect width="1000" height="760" fill="url(#grain)"/>
+    <rect x="52" y="692" width="896" height="47" rx="15" fill="#fffafc" opacity=".89"/>
+    <text x="500.0" y="711" text-anchor="middle" fill="#a65d7a" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="2.1">OUR FIRST HELLO</text>
+    <text x="500.0" y="729" text-anchor="middle" fill="#bd8b9e" font-family="Arial, sans-serif" font-size="21" letter-spacing=".4">a tiny beginning</text>
+    <text x="963" y="39" text-anchor="middle" fill="#fffafc" font-family="Arial, sans-serif" font-size="22">♡</text>
+    </svg>

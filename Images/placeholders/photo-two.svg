@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6d2df"/><stop offset="1" stop-color="#f7e7f3"/></linearGradient>
+      <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fce7ee"/><stop offset="1" stop-color="#fff9fa"/></linearGradient>
+      <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#a85b7d" flood-opacity=".14"/></filter>
+      <pattern id="grain" width="38" height="38" patternUnits="userSpaceOnUse"><circle cx="7" cy="8" r="1" fill="#fff" opacity=".35"/><circle cx="29" cy="24" r="1" fill="#fff" opacity=".3"/></pattern>
+    </defs>
+    <rect width="1000" height="760" fill="url(#bg)"/>
+    <circle cx="120" cy="100" r="160" fill="#fff" opacity=".19"/><circle cx="930" cy="660" r="200" fill="#fff" opacity=".16"/>
+    <circle cx="700" cy="210" r="90" fill="#ffe6b5" opacity=".9"/><path d="M0 475 Q175 375 335 470 T680 448 T1000 405 V760 H0Z" fill="#e7aabd" opacity=".76"/><path d="M0 545 Q210 445 430 545 T1000 508 V760 H0Z" fill="#d995b0" opacity=".72"/>
+        <circle cx="420" cy="313" r="64" fill="#f5d3da"/><path d="M315 580 C318 465 355 390 420 390 C490 390 530 471 532 580Z" fill="#bd7896"/><path d="M356 295 C357 242 390 224 429 235 C469 247 486 286 481 324 C467 290 437 282 419 284 C394 285 376 303 359 325Z" fill="#80566d"/>
+        <circle cx="573" cy="352" r="48" fill="#f4cfda" opacity=".95"/><path d="M506 580 C513 483 533 418 576 418 C621 418 648 486 650 580Z" fill="#f4e0e7" opacity=".97"/><path d="M528 341 C531 307 554 292 582 301 C606 309 622 333 620 361 C602 338 582 335 568 337 C550 337 538 349 528 364Z" fill="#9d6b84"/>
+    <rect width="1000" height="760" fill="url(#grain)"/>
+    <rect x="52" y="692" width="896" height="47" rx="15" fill="#fffafc" opacity=".89"/>
+    <text x="500.0" y="711" text-anchor="middle" fill="#a65d7a" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="2.1">A LITTLE MEMORY</text>
+    <text x="500.0" y="729" text-anchor="middle" fill="#bd8b9e" font-family="Arial, sans-serif" font-size="21" letter-spacing=".4">replace with your picture</text>
+    <text x="963" y="39" text-anchor="middle" fill="#fffafc" font-family="Arial, sans-serif" font-size="22">♡</text>
+    </svg>

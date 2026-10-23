@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6c0c9"/><stop offset="1" stop-color="#fff0e6"/></linearGradient>
+      <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fce7ee"/><stop offset="1" stop-color="#fff9fa"/></linearGradient>
+      <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#a85b7d" flood-opacity=".14"/></filter>
+      <pattern id="grain" width="38" height="38" patternUnits="userSpaceOnUse"><circle cx="7" cy="8" r="1" fill="#fff" opacity=".35"/><circle cx="29" cy="24" r="1" fill="#fff" opacity=".3"/></pattern>
+    </defs>
+    <rect width="1000" height="760" fill="url(#bg)"/>
+    <circle cx="120" cy="100" r="160" fill="#fff" opacity=".19"/><circle cx="930" cy="660" r="200" fill="#fff" opacity=".16"/>
+    <rect x="322" y="105" width="356" height="485" rx="54" fill="#fffafc" stroke="#ffffff" stroke-width="13" filter="url(#shadow)"/><rect x="345" y="140" width="310" height="410" rx="33" fill="url(#inner)"/>
+        <circle cx="500" cy="257" r="75" fill="#f8dce5"/><circle cx="500" cy="245" r="32" fill="#da99ae"/><path d="M443 313 C450 278 550 278 557 313 Q500 358 443 313Z" fill="#e8b7c6"/>
+        <circle cx="390" cy="200" r="12" fill="#fff"/><circle cx="610" cy="210" r="8" fill="#fff"/><path d="M468 396 Q500 425 532 396" fill="none" stroke="#d16d90" stroke-width="7" stroke-linecap="round"/><rect x="418" y="445" width="164" height="13" rx="6.5" fill="#e5a4b8"/>
+    <rect width="1000" height="760" fill="url(#grain)"/>
+    <rect x="52" y="692" width="896" height="47" rx="15" fill="#fffafc" opacity=".89"/>
+    <text x="500.0" y="711" text-anchor="middle" fill="#a65d7a" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="2.1">OUR FIRST CALL</text>
+    <text x="500.0" y="729" text-anchor="middle" fill="#bd8b9e" font-family="Arial, sans-serif" font-size="21" letter-spacing=".4">a voice to remember</text>
+    <text x="963" y="39" text-anchor="middle" fill="#fffafc" font-family="Arial, sans-serif" font-size="22">♡</text>
+    </svg>
